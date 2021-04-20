@@ -1,2 +1,2 @@
 # 6263
-My first homwerok to the Data Science
+My first homework to the Data Science cource in Skoltech
